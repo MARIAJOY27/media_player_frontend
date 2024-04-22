@@ -1,0 +1,14 @@
+*{
+  font-family: "Playfair Display", serif;
+  margin: 0px;
+  padding: 0px;
+}
+
+@media(max-width:600px){
+  #back{
+    display: none;
+  }
+  #wh{
+    display: none;
+  }
+}
