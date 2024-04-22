@@ -1,3 +1,3 @@
 //path of backend
 
-export const serverURL = 'http://localhost:4000'
+export const serverURL = 'https://media-player-server-8qra.onrender.com'
